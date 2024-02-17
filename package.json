@@ -1,0 +1,16 @@
+{
+  "name": "rotmg-guild-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Anton Andrésen <anton.andresen@hotmail.com> (https://www.antonandresen.tech/)",
+  "license": "MIT",
+  "dependencies": {
+    "csv-stringify": "^6.4.5",
+    "jsdom": "^24.0.0"
+  }
+}
